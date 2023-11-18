@@ -1,0 +1,10 @@
+{
+
+
+  "recommendations": [
+    "Equinusocio.vsc-material-theme",
+    "wix.vscode-import-cost",
+    "esbenp.prettier-vscode"
+  ],
+  "unwantedRecommendations": []
+}
